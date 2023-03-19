@@ -1,0 +1,6 @@
+asty;548-98-98;georgia
+riki;456-11-11;student
+miss;548636985;girl
+mu;456-65-54;student
+ksu;625-33-55;new_student
+gfd;123;man
